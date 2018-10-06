@@ -1,0 +1,8 @@
+name: AulaComandos
+main: me.devmuc.AulaComandos.Aula
+version: 1.0
+
+commands:
+    discord:
+    site:
+    fly:
